@@ -288,6 +288,7 @@ export default function Home() {
       <footer className="relative z-30 border-t border-gray-800/30 px-6 py-12">
         <div className="max-w-7xl mx-auto text-center text-gray-500">
           <p>&copy; 2024 Alexandre Designer. Todos los derechos reservados.</p>
+          <p>Made with 💗 by xxvsq web developmentqw</p>
         </div>
       </footer>
     </div>
